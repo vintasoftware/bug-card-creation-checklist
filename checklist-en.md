@@ -1,3 +1,4 @@
+## Process
 - [ ] Make sure to test latest version of product, with all migrations ran and all cache cleared.
 - [ ] Include direct URL of product if possible.
 - [ ] Describe precisely the reproduction steps, action by action, input value by input value. Specify which user or kind of user triggers the problem.
